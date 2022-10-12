@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @BeTheDot
 - 👀 I’m interested in gaming development
 - 🌱 I’m currently learning gaming development
-- 💞️ I’m looking to collaborate on gaming development
-- 📫 How to reach me https://www.facebook.com/testpage.unity
+- 📫 How to reach me
+ - https://web.facebook.com/testpage.unity/
+ - https://www.instagram.com/bethedotdev/
 
 <!---
 BeTheDot/BeTheDot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
