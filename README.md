@@ -2,8 +2,8 @@
 - 👀 I’m interested in gaming development
 - 🌱 I’m currently learning gaming development
 - 📫 How to reach me
- - https://web.facebook.com/testpage.unity/
- - https://www.instagram.com/bethedotdev/
+ - <a href="https://web.facebook.com/testpage.unity/" target="blank">Meta Facebook</a>
+ - <a href="https://www.instagram.com/bethedotdev/" target="blank">Instagram</a> 
 
 <!---
 BeTheDot/BeTheDot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
